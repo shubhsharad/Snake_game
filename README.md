@@ -1,1 +1,1 @@
-Unfinished snake game. Have to finish
+Unfinished snake game using pygame. Have to finish
